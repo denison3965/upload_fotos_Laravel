@@ -1,6 +1,6 @@
 # upload_fotos_Laravel
 
-[Preview-Screens](https://github.com/denison3965/upload_fotos_Laravel/blob/main/img/Captura%20de%20tela%20de%202021-07-06%2011-13-15.png)
+   ![Preview-Screens](https://github.com/denison3965/upload_fotos_Laravel/blob/main/img/Captura%20de%20tela%20de%202021-07-06%2011-13-15.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
